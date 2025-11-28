@@ -62,6 +62,7 @@ select
 from `games_v2.Vertigo`
 where event_date between '2024-02-15' and '2024-03-15'
 group by all;
+```
 
 ✔️ Player Segmentation
 
