@@ -19,6 +19,7 @@ I modeled DAU, retention-based decay, daily revenue and cumulative revenue for b
 ## ✔️ **My SQL Model**
 
 Full SQL code could be found in Word doc. 
+https://docs.google.com/spreadsheets/d/1Fb9eisF19-82eIdyyvqzxSOqIsufLnwRi-9tdOByRng/edit?usp=sharing
 
 ---
 
